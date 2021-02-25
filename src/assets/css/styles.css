@@ -1,0 +1,15 @@
+
+.bg-dark-green{
+	background-color: #0b5d6f;
+}
+.color-dark-green{
+	color: #0b5d6f;
+}
+.btn-dark-green{
+	background-color: #0b5d6f;
+}
+@media (max-width: 576px) { 
+	.color-xs-dark{
+		color: #222;
+	}
+}
